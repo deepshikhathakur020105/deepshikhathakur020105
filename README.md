@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @deepshikhathakur020105
+- 🌱 I’m currently learning c++ and python
